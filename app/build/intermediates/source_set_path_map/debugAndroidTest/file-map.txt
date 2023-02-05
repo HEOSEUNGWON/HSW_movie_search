@@ -1,0 +1,5 @@
+com.example.searchactivity.test.app-androidTest-0 C:\Users\adbfl\AndroidStudioProjects\SearchActivity\app\build\generated\res\resValues\androidTest\debug
+com.example.searchactivity.test.app-androidTest-1 C:\Users\adbfl\AndroidStudioProjects\SearchActivity\app\build\generated\res\rs\androidTest\debug
+com.example.searchactivity.test.app-mergeDebugAndroidTestResources-2 C:\Users\adbfl\AndroidStudioProjects\SearchActivity\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.searchactivity.test.app-mergeDebugAndroidTestResources-3 C:\Users\adbfl\AndroidStudioProjects\SearchActivity\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.searchactivity.test.app-merged_res-4 C:\Users\adbfl\AndroidStudioProjects\SearchActivity\app\build\intermediates\merged_res\debugAndroidTest

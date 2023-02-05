@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="25sp"
+                android:textAlignment="center"
+                android:text="최근 검색 이력" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/button1_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button2_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button3_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button4_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button5_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button6_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button7_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button8_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button9_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+
+                <Button
+                    android:id="@+id/button10_History"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_weight="1"
+                    android:text="Button" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
